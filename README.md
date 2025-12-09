@@ -48,7 +48,7 @@ Beautiful, modern restaurant website built with React & Vite.
 🔗 **Live Demo:** https://restaurantfrontend-xi.vercel.app/  
 
 📸 **Preview:**  
-![Restaurant Website](https://i.postimg.cc/N0SXYtWH/restaurant-final.png)
+!https://www.figma.com/design/CSPJkrj6CWJghmQ7UNhaZT/Restaurant-website-Landing-Page-Design-(Community)?node-id=1-3&t=4See72zKGqd99vYT-0
 
 ---
 
