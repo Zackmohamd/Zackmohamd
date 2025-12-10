@@ -27,7 +27,7 @@ I enjoy solving real problems with technology and creating applications that loo
 ### **Backend**
 - Node.js (Express)  
 - django • python  
-- ASP.NET Core • C#
+
 
 ### **Databases**
 - MongoDB  
