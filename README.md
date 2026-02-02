@@ -32,7 +32,8 @@ I enjoy solving real problems with technology and creating applications that loo
 ### **Databases**
 - MongoDB  
 - MySQL  
-- PostgreSQL  
+- PostgreSQL
+- Supabase  
 
 ### **Tools & Platforms**
 - Git • GitHub • VS Code  
