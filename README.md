@@ -55,8 +55,7 @@ Beautiful, modern restaurant website built with React & Vite.
 
 ## 📫 Contact Me
 
-- **Email:** zakariekaasim1@gmail.com 
-- **LinkedIn:** add your LinkedIn link  
+- **Email:** zakariekaasim1@gmail.com   
 - **Portfolio:** https://zakaaye-portfolio-w.vercel.app/
 
 ---
