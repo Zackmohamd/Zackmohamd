@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Zakarie Mohamed Kasim**
+#       👋 Hi, I'm **Zakarie Mohamed Kasim**
 
-### 🚀 Full-Stack Developer | UI/UX Designer 
+###     🚀 Full-Stack Developer | UI/UX Designer 
 I build modern, responsive, high-quality digital products using clean code, beautiful UI, and powerful backend systems.  
 I enjoy solving real problems with technology and creating applications that look great and work fast.
 
