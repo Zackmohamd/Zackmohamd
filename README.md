@@ -1,6 +1,6 @@
 #       👋 Hi, I'm **Zakarie Mohamed Kasim**
 
-###     🚀 Full-Stack Developer | UI/UX Designer 
+###     🚀 Full-Stack Developer
 I build modern, responsive, high-quality digital products using clean code, beautiful UI, and powerful backend systems.  
 I enjoy solving real problems with technology and creating applications that look great and work fast.
 
@@ -8,7 +8,6 @@ I enjoy solving real problems with technology and creating applications that loo
 
 ## 🌟 About Me
 - 💻 Full-stack developer passionate about Frontend + Backend
-- 🎨 UI/UX designer focused on clean modern interfaces
 - 🚀 Experience with React, Next.js, Vite, Django, Node.js & .NET
 - 📱 I build responsive, mobile-friendly interfaces
 - 🧠 Always learning, improving, and building new projects
